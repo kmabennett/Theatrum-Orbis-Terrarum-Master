@@ -6,8 +6,5 @@
     "Transcription": "Transcription",
     "FirstPass": "FirstPass"
   },
-  "viewerUrl": "/Theatrum-Orbis-Terrarum",
-  "stylesheets": [
-    "/Theatrum-Orbis-Terrarum/TheatrumOrbisTerrarum/html/css/column.css"
-  ]
+  "viewerUrl": "/Theatrum-Orbis-Terrarum-Master"
 }
