@@ -1,7 +1,7 @@
 {
   "id": "ec",
   "documentName": "Theatrum Orbis Terrarum",
-  "iiifManifest": "/Theatrum-Orbis-Terrarum/TheatrumOrbisTerrarum/iiif/manifest.json",
+  "iiifManifest": "/Theatrum-Orbis-Terrarum-Master/TheatrumOrbisTerrarum/iiif/manifest.json",
   "transcriptionTypes": {
     "Transcription": "Transcription",
     "FirstPass": "FirstPass"
