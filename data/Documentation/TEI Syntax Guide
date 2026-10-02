@@ -52,7 +52,7 @@
 
         <date notBefore="1500" notAfter="1520"/>
 
-<fw> — Page Furniture (Headers, Page Numbers, Catchwords)
+<fw> — Forme Works (Headers, Page Numbers, Catchwords)
 
     Running headers:
         <fw type="header" place="top">THEATRVM ORBIS TERRARVM</fw>
