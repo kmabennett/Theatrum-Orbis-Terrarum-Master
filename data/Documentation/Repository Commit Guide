@@ -1,0 +1,31 @@
+<!--
+1. Process the Edition - This command makes sure all the work you did in your .xml folder ends up where it should
+    Make sure you're in the root folder, not /data
+        cd ..
+
+    Run
+        editioncrafter process -i data/[your xml].xml -o public -u [base url]
+            How to find the base URL
+                Go to Settings → Pages
+                Look for “Your site is live at…”
+                Copy that link into the command
+
+        Example
+            editioncrafter process -i data/TheatrumOrbisTerrarum.xml -o public -u https://kmabennett.github.io/Theatrum-Orbis-Terrarum-Master/
+
+2. Commit and Push the Changes
+    Click Source Control (three-circle icon)
+        In the message box, type some comment/ description of the update like "f009Update" 
+    Click Commit
+        If asked about staged changes, click Yes or Always
+    Then click Sync Changes
+        Approve any pop-ups (OK, don't show again, etc.)
+
+3. To Check Deployment
+    Go to your GitHub repository
+    Click the Actions tab
+        Your site should be updating/building (may take 1 or 2 minutes)
+    When finished, open pages-build-deployment
+    Under deploy, click the link to open your edition to check your update
+    
+-->
