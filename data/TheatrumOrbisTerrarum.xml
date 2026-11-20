@@ -415,7 +415,7 @@ iiif Manifest ling -> https://kmabennett.github.io/Theatrum-Orbis-Terrarum-Maste
 
       </facsimile>
 
-<text xml:id="Transcription">
+<text xml:id="TEI">
 <body><div>
 <!--
 <pb facs="#f000" />
