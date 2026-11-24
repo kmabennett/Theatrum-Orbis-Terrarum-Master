@@ -1,4 +1,5 @@
 <listPerson>
+<!-- STUDENTS NOTE THAT WE HAVE xml:id listed below but you are encoding your persons as person ref="ORTE1" -->
 	<person xml:id="ORTE1" sex="1">
 		<persName type="">
 			<reg>Ortelius, Abraham</reg>
