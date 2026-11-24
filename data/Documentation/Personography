@@ -1,588 +1,1010 @@
 <listPerson>
-
-    <person xml:id="ortelius">
-        <persName>Abraham Ortelius</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="johnnorton">
-        <persName>John Norton</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="jamesi">
-        <persName>James I</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="philipii">
-        <persName>Philip II</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="cicero">
-        <persName>Cicero</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="seneca">
-        <persName>Seneca</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="salustius">
-        <persName>Salustius</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="stpaulinus">
-        <persName>St. Paulinus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="philostratus">
-        <persName>Philostratus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="isocrates">
-        <persName>Isocrates</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="varro">
-        <persName>Varro</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="eratosthenes">
-        <persName>Eratosthenes</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="staugustine">
-        <persName>St. Augustine</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="lucane">
-        <persName>Lucane</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="orosius">
-        <persName>Orosius</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="strabo">
-        <persName>Strabo</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="silenus">
-        <persName>Silenus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="elianus">
-        <persName>Elianus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="midas">
-        <persName>Midas</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="aristotle">
-        <persName>Aristotle</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="plato">
-        <persName>Plato</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="herodotus">
-        <persName>Herodotus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="pliny">
-        <persName>Pliny</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="mela">
-        <persName>Mela</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="dionysius">
-        <persName>Dionysius</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="plutarch">
-        <persName>Plutarch</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="alexander">
-        <persName>Alexander</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="iornandes">
-        <persName>Iornandes</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="arrianus">
-        <persName>Arrianus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="diodorus">
-        <persName>Diodorus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="polybius">
-        <persName>Polybius</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="ptolemy">
-        <persName>Ptolemy</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="orpheus">
-        <persName>Orpheus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="isidorus">
-        <persName>Isidorus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="seneca2">
-        <persName>Seneca</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="herberstein">
-        <persName>Baro Herberstein</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="pauloderborne">
-        <persName>Paul Oderborne</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="antonywied">
-        <persName>Antony Wied</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="jenkinson">
-        <persName>Master Jenkinson</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="paulusvenetus">
-        <persName>M. Paulus Venetus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="lewesbarthema">
-        <persName>Lewes Barthema</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="johnmandeville">
-        <persName>John Mandeville</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="iacobusnauarca">
-        <persName>Iacobus Nauarca</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="johnleo">
-        <persName>John Leo</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="presterjohn">
-        <persName>Prester John</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="vascodegama">
-        <persName>Vasco de Gama</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="afer">
-        <persName>Afer</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="pindarus">
-        <persName>Pindarus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="caesar">
-        <persName>Caesar</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="solinus">
-        <persName>Solinus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="herodotus2">
-        <persName>Herodotus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="caesarscaliger">
-        <persName>Caesar Scaliger</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="isidore">
-        <persName>Isidore</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="hanno">
-        <persName>Hanno</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="iambulus">
-        <persName>Iambulus</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="bartholomeusdeglanvilla">
-        <persName>Bartholomeus de Glanvilla</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="franciscusalvares">
-        <persName>Franciscus Alvares</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="johnramusio">
-        <persName>John Ramusio</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-
-    <person xml:id="jeromefracastorius">
-        <persName>Jerome Fracastorius</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="corlez">
-        <persName>Fernando Corlez</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="gousaluodeouiedo">
-        <persName>Gousaluo de Ouiedo</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="jeromebenzo">
-        <persName>Jerome Benzo</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
-
-    <person xml:id="petermartyr">
-        <persName>Peter Martyr</persName>
-        <sex value=""/>
-        <birth when="" place="#"/>
-        <death when="" place="#"/>
-        <occupation></occupation>
-        <note></note>
-    </person>
+	<person xml:id="ORTE1" sex="1">
+		<persName type="">
+			<reg>Ortelius, Abraham</reg>
+			<forename>Abraham</forename>
+			<surname>Ortelius</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="NORT1" sex="1">
+		<persName type="">
+			<reg>Norton, John</reg>
+			<forename>John</forename>
+			<surname>Norton</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="JAME1" sex="1">
+		<persName type="">
+			<reg>James I</reg>
+			<forename>James</forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="PHIL1" sex="1">
+		<persName type="">
+			<reg>Philip II</reg>
+			<forename>Philip</forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="CICE1" sex="1">
+		<persName type="">
+			<reg>Cicero</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="SENE1" sex="1">
+		<persName type="">
+			<reg>Seneca</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="SALU1" sex="1">
+		<persName type="">
+			<reg>Salustius</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="PAUL1" sex="1">
+		<persName type="">
+			<reg>St. Paulinus</reg>
+			<forename>Paulinus</forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="PHIL2" sex="1">
+		<persName type="">
+			<reg>Philostratus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ISOC1" sex="1">
+		<persName type="">
+			<reg>Isocrates</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="VARR1" sex="1">
+		<persName type="">
+			<reg>Varro</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ERAT1" sex="1">
+		<persName type="">
+			<reg>Eratosthenes</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="AUGU1" sex="1">
+		<persName type="">
+			<reg>St. Augustine</reg>
+			<forename>Augustine</forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="LUCA1" sex="1">
+		<persName type="">
+			<reg>Lucane</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="OROS1" sex="1">
+		<persName type="">
+			<reg>Orosius</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="STRA1" sex="1">
+		<persName type="">
+			<reg>Strabo</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="SILE1" sex="1">
+		<persName type="">
+			<reg>Silenus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ELIA1" sex="1">
+		<persName type="">
+			<reg>Elianus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="MIDA1" sex="1">
+		<persName type="">
+			<reg>Midas</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ARIS1" sex="1">
+		<persName type="">
+			<reg>Aristotle</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="PLAT1" sex="1">
+		<persName type="">
+			<reg>Plato</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="HERO1" sex="1">
+		<persName type="">
+			<reg>Herodotus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="PLIN1" sex="1">
+		<persName type="">
+			<reg>Pliny</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="MELA1" sex="1">
+		<persName type="">
+			<reg>Mela</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="DION1" sex="1">
+		<persName type="">
+			<reg>Dionysius</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="PLUT1" sex="1">
+		<persName type="">
+			<reg>Plutarch</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ALEX1" sex="1">
+		<persName type="">
+			<reg>Alexander</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="IORN1" sex="1">
+		<persName type="">
+			<reg>Iornandes</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ARRI1" sex="1">
+		<persName type="">
+			<reg>Arrianus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="DIOD1" sex="1">
+		<persName type="">
+			<reg>Diodorus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="POLY1" sex="1">
+		<persName type="">
+			<reg>Polybius</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="PTOL1" sex="1">
+		<persName type="">
+			<reg>Ptolemy</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ORPH1" sex="1">
+		<persName type="">
+			<reg>Orpheus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ISID1" sex="1">
+		<persName type="">
+			<reg>Isidorus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="SENE2" sex="1">
+		<persName type="">
+			<reg>Seneca</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="HERB1" sex="1">
+		<persName type="">
+			<reg>Herberstein, Baro</reg>
+			<forename>Baro</forename>
+			<surname>Herberstein</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ODER1" sex="1">
+		<persName type="">
+			<reg>Oderborne, Paul</reg>
+			<forename>Paul</forename>
+			<surname>Oderborne</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="WIED1" sex="1">
+		<persName type="">
+			<reg>Wied, Antony</reg>
+			<forename>Antony</forename>
+			<surname>Wied</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="JENK1" sex="1">
+		<persName type="">
+			<reg>Jenkinson, Master</reg>
+			<forename></forename>
+			<surname>Jenkinson</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="VENE1" sex="1">
+		<persName type="">
+			<reg>Paulus Venetus, M.</reg>
+			<forename>Paulus</forename>
+			<surname>Venetus</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="BART1" sex="1">
+		<persName type="">
+			<reg>Barthema, Lewes</reg>
+			<forename>Lewes</forename>
+			<surname>Barthema</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="MAND1" sex="1">
+		<persName type="">
+			<reg>Mandeville, John</reg>
+			<forename>John</forename>
+			<surname>Mandeville</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="NAUA1" sex="1">
+		<persName type="">
+			<reg>Nauarca, Iacobus</reg>
+			<forename>Iacobus</forename>
+			<surname>Nauarca</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="LEO1" sex="1">
+		<persName type="">
+			<reg>Leo, John</reg>
+			<forename>John</forename>
+			<surname>Leo</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="JOHN1" sex="1">
+		<persName type="">
+			<reg>Prester John</reg>
+			<forename>John</forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="GAMA1" sex="1">
+		<persName type="">
+			<reg>de Gama, Vasco</reg>
+			<forename>Vasco</forename>
+			<surname>de Gama</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="AFER1" sex="1">
+		<persName type="">
+			<reg>Afer</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="PIND1" sex="1">
+		<persName type="">
+			<reg>Pindarus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="CAES1" sex="1">
+		<persName type="">
+			<reg>Caesar</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="SOLI1" sex="1">
+		<persName type="">
+			<reg>Solinus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="HERO2" sex="1">
+		<persName type="">
+			<reg>Herodotus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="SCAL1" sex="1">
+		<persName type="">
+			<reg>Scaliger, Caesar</reg>
+			<forename>Caesar</forename>
+			<surname>Scaliger</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ISID2" sex="1">
+		<persName type="">
+			<reg>Isidore</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="HANN1" sex="1">
+		<persName type="">
+			<reg>Hanno</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="IAMB1" sex="1">
+		<persName type="">
+			<reg>Iambulus</reg>
+			<forename></forename>
+			<surname></surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="GLAN1" sex="1">
+		<persName type="">
+			<reg>de Glanvilla, Bartholomeus</reg>
+			<forename>Bartholomeus</forename>
+			<surname>de Glanvilla</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="ALVA1" sex="1">
+		<persName type="">
+			<reg>Alvares, Franciscus</reg>
+			<forename>Franciscus</forename>
+			<surname>Alvares</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="RAMU1" sex="1">
+		<persName type="">
+			<reg>Ramusio, John</reg>
+			<forename>John</forename>
+			<surname>Ramusio</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="FRAC1" sex="1">
+		<persName type="">
+			<reg>Fracastorius, Jerome</reg>
+			<forename>Jerome</forename>
+			<surname>Fracastorius</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="CORL1" sex="1">
+		<persName type="">
+			<reg>Corlez, Fernando</reg>
+			<forename>Fernando</forename>
+			<surname>Corlez</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="OUIE1" sex="1">
+		<persName type="">
+			<reg>de Ouiedo, Gousaluo</reg>
+			<forename>Gousaluo</forename>
+			<surname>de Ouiedo</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="BENZ1" sex="1">
+		<persName type="">
+			<reg>Benzo, Jerome</reg>
+			<forename>Jerome</forename>
+			<surname>Benzo</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
+
+	<person xml:id="MART1" sex="1">
+		<persName type="">
+			<reg>Martyr, Peter</reg>
+			<forename>Peter</forename>
+			<surname>Martyr</surname>
+		</persName>
+		<birth when=""/>
+		<death when=""/>
+		<note>
+			<p></p>
+			<list type="links">
+				<item><ref target="">Reference Link</ref></item>
+			</list>
+		</note>
+	</person>
 
 </listPerson>
